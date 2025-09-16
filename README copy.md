@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15+-orange.svg)](https://www.tensorflow.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Llama3](https://img.shields.io/badge/Llama3-886FBF?style=for-the-badge&logo=meta&logoColor=fff) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Keras-Hub](https://img.shields.io/badge/Keras--Hub-gray?style=for-the-badge)
 
 ---
-This repository provides an implementation of **antibody affinity prediction** using a **LLaMA3 transformer backbone** with **5-fold cross-validation**. The model is trained and evaluated on molecular sequence OAS data procuring from AntiFormer github  and benchmarked and assessed with multiple metrics, including **accuracy, precision, recall, F1-score, ROC-AUC**, and training time.  
+This repository provides an implementation of **antibody affinity prediction** using a **LLaMA3 transformer backbone** with **5-fold cross-validation**. The model is trained and evaluated on protein molecular sequence OAS data procuring from AntiFormer github  and benchmarked and assessed with multiple metrics, including **accuracy, precision, recall, F1-score, ROC-AUC**, and training time.  
 
 ---
 
